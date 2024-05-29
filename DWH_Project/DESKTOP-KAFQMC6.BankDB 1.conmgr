@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-KAFQMC6.BankDB 1"
+  DTS:DTSID="{A638CAA8-8434-4B9B-95D8-B284BAC7CCD3}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-KAFQMC6;Initial Catalog=BankDB;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-DWH_Project-{A638CAA8-8434-4B9B-95D8-B284BAC7CCD3}DESKTOP-KAFQMC6.BankDB;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
